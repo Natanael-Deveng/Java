@@ -6,6 +6,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Documentos SATA\Workspace\ws-eclipse\programasJava\POO-ex6.2"/>
+			<item value="E:\Documentos SATA\Workspace\ws-eclipse\programasJava\POO-ex2"/>
+			<item value="E:\Documentos SATA\Workspace\ws-eclipse\programasJava"/>
 			<item value="D:\Documentos SATA\Workspace\ws-eclipse\programasJava"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
